@@ -1,1 +1,7 @@
 Library/
+obj/
+Temp/
+.vs/
+Assembly-CSharp*.csproj
+*.CSharp*.csproj
+*.sln
